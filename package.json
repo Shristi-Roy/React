@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react series",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shristi-Roy/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "akshay saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shristi-Roy/React/issues"
+  },
+  "homepage": "https://github.com/Shristi-Roy/React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserList" : [
+    "last 2 versions"
+  ]
+}
