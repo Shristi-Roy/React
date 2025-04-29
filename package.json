@@ -4,7 +4,8 @@
   "description": "this is react series",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "test" : "jest"
   },
   "repository": {
     "type": "git",
