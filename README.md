@@ -19,3 +19,37 @@
 - HTTPs
 - tree shaking - remove unused code
 - different dev and prod bundles
+
+# Namaste Food
+
+/**
+* Header
+* - Logo
+* - Nav Items
+* Body
+* - Search
+*  - RestaurantContainer
+*    - RestaurantCard
+*      - Img
+*        - Name of Res, star Rating, cuisine, delivery time
+* Footer
+* - copyright
+* - Address
+* - Links
+* - Contact 
+*/
+
+# The type of Exports/Imports
+ 
+ - Default Exports/Imports
+   * exports default Component;
+   * import Components from "path";
+
+ - Named Export/Import
+   * export const Component;
+   * import {Component} from "path";
+
+# React Hooks
+- (Normal JS utility Functions)
+- useState - Superpowerful state variable in react 
+- useEffect
